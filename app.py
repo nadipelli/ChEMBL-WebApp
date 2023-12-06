@@ -1,7 +1,6 @@
 import streamlit as st
 from chembl_webresource_client.new_client import new_client
 from IPython.display import display
-from IPython.display import IFrame
 from ipywidgets import interact
 import nglview as nv
 import webbrowser

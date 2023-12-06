@@ -1,0 +1,8 @@
+streamlit
+chembl_webresource_client
+IPython
+ipywidgets
+nglview
+webbrowser
+os
+pandas
